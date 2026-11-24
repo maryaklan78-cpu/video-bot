@@ -1,2 +1,7 @@
 yt-dlp
 python-telegram-bot
+moviepy
+Pillow
+requests
+imageio
+imageio-ffmpeg
